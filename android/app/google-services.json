@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "931809506360",
+    "firebase_url": "https://durian-app4745-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "durian-app4745",
+    "storage_bucket": "durian-app4745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931809506360:android:0d0cc3583d49911b0ae2cd",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAunI9JKC_MTyP0N4F7PvH3xiYtUNAjXAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
